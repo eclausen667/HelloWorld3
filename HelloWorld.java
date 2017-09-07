@@ -5,6 +5,6 @@
 //This program tells the user hello
 public class HelloWorld {
 	   public static void main(String args[]) {
-		   System.out.println("Hello Emma");
+		   System.out.println("Hello Emma and Andre");
 	   }
 }
